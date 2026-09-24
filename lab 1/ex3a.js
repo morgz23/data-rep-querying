@@ -1,0 +1,1 @@
+const tasks = ["Study JavaScript", "Do homework", "Go shopping"];
